@@ -1,5 +1,6 @@
 ### Hi, I'm Jeff 👋
 Always learning — currently deep into backend systems and system design.
+Passionate about developing software with AI agents.
 
 ---
 
@@ -17,6 +18,12 @@ Always learning — currently deep into backend systems and system design.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+**📊 Top Languages**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellojeff99&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
