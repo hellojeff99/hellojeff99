@@ -1,5 +1,5 @@
 ### Hi, I'm Jeff 👋
-Backend-focused developer with experience across the full stack.
+Always learning — currently deep into backend systems and system design.
 
 ---
 
@@ -17,13 +17,6 @@ Backend-focused developer with experience across the full stack.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-**📊 GitHub Stats**
-
-![Stats](https://github-readme-stats.vercel.app/api?username=hellojeff99&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=hellojeff99&theme=tokyonight&hide_border=true)
 
 ---
 
